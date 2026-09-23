@@ -1,2 +1,2 @@
 # PMS-REKEEPER
-Property management system form small hotels and pensions 
+Property management system for small hotels and pensions 
